@@ -1,0 +1,9 @@
+ESTADÍSTICAS DE PARTÍCULAS PET
+==================================================
+
+Total de partículas: 13704
+Diámetro mínimo: 0.633656 um
+Diámetro máximo: 8.899433 um
+Diámetro promedio: 1.096941 um
+Diámetro mediana: 0.877258 um
+Desviación estándar: 0.615009 um

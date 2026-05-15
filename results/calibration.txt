@@ -1,0 +1,2 @@
+Pixel conversion: 1 px = 0.162109375 um
+Image dimensions: 2560x2860
