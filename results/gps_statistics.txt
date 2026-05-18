@@ -1,0 +1,10 @@
+ANÁLISIS DE PARTÍCULAS GPS
+===========================
+Total partículas: 141
+Diámetro mínimo: 2.829977 um
+Diámetro máximo: 67.702292 um
+Diámetro promedio: 9.420817 um
+Diámetro mediana: 6.528961 um
+Desviación estándar: 8.966800 um
+Calibración usada: 1 px = 0.450450 um
+Escala 100 µm = 222 px
